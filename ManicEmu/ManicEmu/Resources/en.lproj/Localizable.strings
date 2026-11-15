@@ -1221,3 +1221,6 @@ Press the controller button to complete mapping...";
 
 "Game3DSEncryptedTips" = "Import the correct aes_keys.txt to read encrypted ROMs.";
 "AesKeysTxtDesc" = "Required to play encrypted 3DS ROMs.";
+
+/* Save sync status; %ld is the number of unresolved save files. */
+"verifiedSaveSyncNeedsAttention" = "Save sync needs attention (%ld)";
